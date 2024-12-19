@@ -1,0 +1,88 @@
+* {
+    background-color: #e7e7e7;
+    margin: 0;
+    padding: 0;
+}
+.verh {
+    height: 60px;
+    width: 100%;
+    background-color: #f2e8c9;
+}
+.verh1 {
+    font-size: 30px;
+    color: #0d1736;
+    background-color: rgba(56, 56, 56, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+p {
+    margin-top: 3% ;
+    background-color: rgba(56, 56, 56, 0);
+}
+button {
+    cursor: pointer;
+    color: #0d1736;
+}
+.ruy {
+    margin-top: 20%; 
+    
+    
+}
+a {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 100px;
+    color: #0d1736;
+    text-decoration: none;
+    background-color: #f1f1f100;
+}
+.knopka1 {
+    border-radius: 1rem;
+    width: 200px;
+    height: 100px;
+    color: #0d1736;
+    background-color: #f2e8c9;
+    margin-left: 25%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+
+}
+.knopka2 {
+    
+    border-radius: 1rem;
+    width: 200px;
+    height: 100px;
+    color: #0d1736;
+    background-color: #f2e8c9;
+    margin-left: 25%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+    font-size: 30px;
+   
+}
+.knopka3 {
+    border-radius: 1rem;
+    width: 200px;
+    height: 100px;
+    color: #0d1736;
+    background-color: #f2e8c9;
+    margin-left: 25%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+    font-size: 30px;
+   
+}
